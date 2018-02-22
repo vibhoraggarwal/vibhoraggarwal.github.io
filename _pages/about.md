@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a graduate from IIT,Kanpur, having a major and minor degree in Mechanical Engineering and Applied Mathematics. During my academic career I worked on the design and dynamics of Automotive vehicles and Robots.
+I am a graduate from IIT Kanpur, India, with a major and minor degree in Mechanical Engineering and Applied Mathematics. During my academic career I worked on the design and dynamics of Automotive vehicles and Robots.
 
-Currently I am working as a research fellow in Dynamic Interaction Control department of IIT, Genova.
+Currently I am working as a research fellow in Dynamic Interaction Control department of IIT Genova, Italy.
 
