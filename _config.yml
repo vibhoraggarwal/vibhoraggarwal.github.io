@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Vibhor Aggarwal"
 title_separator          : "-"
 name                     : &name "Vibhor Aggarwal"
-description              : &description "Research Fellow at IIT, Genova"
+description              : &description "Master's student at RWTH Aachen"
 url                      : https://vibhoraggarwal.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "vibhoraggarwal.github.io"
@@ -80,8 +80,8 @@ analytics:
 author:
   name             : "Vibhor Aggarwal"
   avatar           : "profilephoto.jpg"
-  bio              : "Research Fellow at IIT, Genova"
-  location         : "Genova"
+  bio              : "Master's student at RWTH Aachen"
+  location         : "Aachen, Germany"
   employer         :
   googlescholar    : 
   email            : "vibhorag24@gmail.com"
