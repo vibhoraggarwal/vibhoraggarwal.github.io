@@ -1,16 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags | Vibhor Startseite</title>
+    <title>Tags on Vibhor Startseite</title>
     <link>https://vibhoraggarwal.github.io/de/tags/</link>
-      <atom:link href="https://vibhoraggarwal.github.io/de/tags/index.xml" rel="self" type="application/rss+xml" />
-    <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>de</language>
-    <image>
-      <url>https://vibhoraggarwal.github.io/img/avatar.jpg</url>
-      <title>Tags</title>
-      <link>https://vibhoraggarwal.github.io/de/tags/</link>
-    </image>
+    <description>Recent content in Tags on Vibhor Startseite</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>de</language>
+    
+	    <atom:link href="https://vibhoraggarwal.github.io/de/tags/index.xml" rel="self" type="application/rss+xml" />
+    
     
   </channel>
 </rss>

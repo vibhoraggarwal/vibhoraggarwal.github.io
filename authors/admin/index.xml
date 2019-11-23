@@ -3,14 +3,12 @@
   <channel>
     <title>Vibhor Aggarwal</title>
     <link>https://vibhoraggarwal.github.io/authors/admin/</link>
-      <atom:link href="https://vibhoraggarwal.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
-    <description>Vibhor Aggarwal</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
-    <image>
-      <url>https://vibhoraggarwal.github.io/img/avatar.jpg</url>
-      <title>Vibhor Aggarwal</title>
-      <link>https://vibhoraggarwal.github.io/authors/admin/</link>
-    </image>
+    <description>Recent content on Vibhor Aggarwal</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    
+	    <atom:link href="https://vibhoraggarwal.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    
     
   </channel>
 </rss>

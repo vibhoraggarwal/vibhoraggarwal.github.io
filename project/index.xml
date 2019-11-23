@@ -1,16 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | Vibhor Aggarwal</title>
+    <title>Projects on Vibhor Aggarwal</title>
     <link>https://vibhoraggarwal.github.io/project/</link>
-      <atom:link href="https://vibhoraggarwal.github.io/project/index.xml" rel="self" type="application/rss+xml" />
-    <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
-    <image>
-      <url>https://vibhoraggarwal.github.io/img/avatar.jpg</url>
-      <title>Projects</title>
-      <link>https://vibhoraggarwal.github.io/project/</link>
-    </image>
+    <description>Recent content in Projects on Vibhor Aggarwal</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    
+	    <atom:link href="https://vibhoraggarwal.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
     
   </channel>
 </rss>

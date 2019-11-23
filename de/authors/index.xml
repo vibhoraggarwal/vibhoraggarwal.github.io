@@ -1,21 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors | Vibhor Startseite</title>
+    <title>Authors on Vibhor Startseite</title>
     <link>https://vibhoraggarwal.github.io/de/authors/</link>
-      <atom:link href="https://vibhoraggarwal.github.io/de/authors/index.xml" rel="self" type="application/rss+xml" />
-    <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>de</language>
-    <image>
-      <url>https://vibhoraggarwal.github.io/img/avatar.jpg</url>
-      <title>Authors</title>
-      <link>https://vibhoraggarwal.github.io/de/authors/</link>
-    </image>
+    <description>Recent content in Authors on Vibhor Startseite</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>de</language>
+    
+	    <atom:link href="https://vibhoraggarwal.github.io/de/authors/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title></title>
       <link>https://vibhoraggarwal.github.io/de/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
       <guid>https://vibhoraggarwal.github.io/de/authors/admin/</guid>
       <description>&lt;p&gt;Ich bin Masterstudent und studiere Fahrzeugtechnik an der &lt;a href=&#34;http://www.rwth-aachen.de/cms/~a/root/?lidx=1&#34; target=&#34;_blank&#34;&gt;RWTH Aachen&lt;/a&gt;. Ich habe ein Abschluss als Maschinenbauingenieur mit dem Schwerpunkt Applied Mathematics an der &lt;a href=&#34;https://www.iitk.ac.in&#34; target=&#34;_blank&#34;&gt;Indian Institute of Technology, Kanpur&lt;/a&gt; abgeschlossen.  Derzeit arbeite ich als Studentische Hilfskraft an der Sensorfusion zur Navigation und Bahnplanung eines unbemannten Luftfahrzeugs mit &lt;a href=&#34;http://www.irt.rwth-aachen.de/cms/IRT/Forschung/~izql/Galileo/?lidx=1&#34; target=&#34;_blank&#34;&gt;Galileo-Gruppe&lt;/a&gt; bei &lt;a href=&#34;http://www.irt.rwth-aachen.de/cms/~iung/IRT/lidx/1/&#34; target=&#34;_blank&#34;&gt;Institut für Regelungstechnik&lt;/a&gt;, &lt;a href=&#34;http://www.rwth-aachen.de/cms/~a/root/?lidx=1&#34; target=&#34;_blank&#34;&gt;RWTH Aachen&lt;/a&gt;. Ich habe bei &lt;a href=&#34;https://www.iitk.ac.in/ame/sae/&#34; target=&#34;_blank&#34;&gt;IITK Motosports&lt;/a&gt;, Humanoid Robots bei &lt;a href=&#34;https://www.iit.it&#34; target=&#34;_blank&#34;&gt;Italian Institute of Technology, Genova&lt;/a&gt; und Materialtransportroboter für das Lager bei &lt;a href=&#34;www.greyorange.com&#34; target=&#34;_blank&#34;&gt;Grey Orange Robotics&lt;/a&gt;. Um mehr über mich zu erfahren, können Sie meinen Lebenslauf &lt;a href=&#34;https://vibhoraggarwal.github.io/files/CV_De.pdf&#34; target=&#34;_blank&#34;&gt;hier&lt;/a&gt; oder kurzer Lebenslauf &lt;a href=&#34;https://vibhoraggarwal.github.io/files/VibhorResume_de.pdf&#34; target=&#34;_blank&#34;&gt;hier&lt;/a&gt; einsehen.&lt;/p&gt;
 

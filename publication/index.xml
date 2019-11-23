@@ -1,16 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Vibhor Aggarwal</title>
+    <title>Publications on Vibhor Aggarwal</title>
     <link>https://vibhoraggarwal.github.io/publication/</link>
-      <atom:link href="https://vibhoraggarwal.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
-    <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
-    <image>
-      <url>https://vibhoraggarwal.github.io/img/avatar.jpg</url>
-      <title>Publications</title>
-      <link>https://vibhoraggarwal.github.io/publication/</link>
-    </image>
+    <description>Recent content in Publications on Vibhor Aggarwal</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    
+	    <atom:link href="https://vibhoraggarwal.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    
     
   </channel>
 </rss>
