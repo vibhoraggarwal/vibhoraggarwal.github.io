@@ -3,6 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://vibhoraggarwal.github.io/slides/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vibhoraggarwal.github.io/slides/example/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vibhoraggarwal.github.io/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://vibhoraggarwal.github.io/de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://vibhoraggarwal.github.io/"
+                />
+  </url>
+  
+  <url>
     <loc>https://vibhoraggarwal.github.io/authors/admin/</loc>
     <lastmod>2019-11-23T02:07:26+01:00</lastmod>
     <xhtml:link
@@ -115,20 +140,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://vibhoraggarwal.github.io/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://vibhoraggarwal.github.io/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://vibhoraggarwal.github.io/de/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://vibhoraggarwal.github.io/"
                 />
   </url>
   
