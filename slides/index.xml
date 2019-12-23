@@ -138,16 +138,19 @@ $$&lt;/p&gt;
 &lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
 &lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
 &lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
-&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
-&lt;/ul&gt;
 
-&lt;hr /&gt;
+&lt;li&gt;&lt;p&gt;sky: Blue background, thin dark text, blue links
+&lt;a data-flickr-embed=&#34;true&#34;  href=&#34;https://www.flickr.com/photos/160040246@N06/albums/72157692416450831&#34; title=&#34;Robotic Exoskeleton Arm&#34;&gt;&lt;img src=&#34;https://live.staticflickr.com/4656/40642890921_d8a656fe7e.jpg&#34; width=&#34;500&#34; height=&#34;281&#34; alt=&#34;Robotic Exoskeleton Arm&#34;&gt;&lt;/a&gt;&lt;script async src=&#34;//embedr.flickr.com/assets/client-code.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
 
-&lt;ul&gt;
-&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
-&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
-&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
-&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;h2 id=&#34;video-data-autoplay-src-http-clips-vorwaerts-gmbh-de-big-buck-bunny-mp4-video&#34;&gt;&lt;video data-autoplay src=&#34;http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4&#34;&gt;&lt;/video&gt;&lt;/h2&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;night: Black background, thick white text, orange links&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;serif: Cappuccino background, gray text, brown links&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;simple: White background, black text, blue links&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;solarized: Cream-colored background, dark green text, blue links&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;hr /&gt;
