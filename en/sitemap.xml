@@ -3,18 +3,68 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://vibhoraggarwal.github.io/slides/</loc>
-    <lastmod>2019-12-23T02:58:13+01:00</lastmod>
+    <loc>https://vibhoraggarwal.github.io/authors/</loc>
+    <lastmod>2020-02-10T18:49:08+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://vibhoraggarwal.github.io/de/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://vibhoraggarwal.github.io/authors/"
+                />
   </url>
   
   <url>
-    <loc>https://vibhoraggarwal.github.io/slides/example/</loc>
-    <lastmod>2019-12-23T02:58:13+01:00</lastmod>
+    <loc>https://vibhoraggarwal.github.io/categories/</loc>
+    <lastmod>2020-02-10T18:49:08+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://vibhoraggarwal.github.io/de/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://vibhoraggarwal.github.io/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://vibhoraggarwal.github.io/tags/control-engineering/</loc>
+    <lastmod>2020-02-10T18:49:08+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vibhoraggarwal.github.io/post/controlengineering/</loc>
+    <lastmod>2020-02-10T18:49:08+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vibhoraggarwal.github.io/tags/</loc>
+    <lastmod>2020-02-10T18:49:08+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://vibhoraggarwal.github.io/de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://vibhoraggarwal.github.io/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://vibhoraggarwal.github.io/authors/vibhor/</loc>
+    <lastmod>2020-02-10T18:49:08+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://vibhoraggarwal.github.io/</loc>
-    <lastmod>2019-12-23T02:58:13+01:00</lastmod>
+    <lastmod>2020-02-10T18:49:08+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -28,6 +78,16 @@
   </url>
   
   <url>
+    <loc>https://vibhoraggarwal.github.io/slides/</loc>
+    <lastmod>2019-12-23T02:58:13+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vibhoraggarwal.github.io/slides/example/</loc>
+    <lastmod>2019-12-23T02:58:13+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://vibhoraggarwal.github.io/tags/deep-learning/</loc>
     <lastmod>2019-12-23T02:58:13+01:00</lastmod>
   </url>
@@ -35,21 +95,6 @@
   <url>
     <loc>https://vibhoraggarwal.github.io/templateproject/robotic-exoskeleton-arm/</loc>
     <lastmod>2019-12-23T02:58:13+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://vibhoraggarwal.github.io/tags/</loc>
-    <lastmod>2019-12-23T02:58:13+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://vibhoraggarwal.github.io/de/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://vibhoraggarwal.github.io/tags/"
-                />
   </url>
   
   <url>
@@ -73,36 +118,8 @@
   </url>
   
   <url>
-    <loc>https://vibhoraggarwal.github.io/authors/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://vibhoraggarwal.github.io/de/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://vibhoraggarwal.github.io/authors/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://vibhoraggarwal.github.io/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://vibhoraggarwal.github.io/de/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://vibhoraggarwal.github.io/categories/"
-                />
-  </url>
-  
-  <url>
     <loc>https://vibhoraggarwal.github.io/post/</loc>
-    <lastmod>2019-11-23T02:00:31+01:00</lastmod>
+    <lastmod>2020-02-10T18:49:08+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
