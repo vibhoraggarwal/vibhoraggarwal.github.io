@@ -18,11 +18,6 @@
   </url>
   
   <url>
-    <loc>https://vibhoraggarwal.github.io/post/books/</loc>
-    <lastmod>2020-02-10T20:26:51+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://vibhoraggarwal.github.io/categories/</loc>
     <lastmod>2020-02-10T20:26:51+01:00</lastmod>
     <xhtml:link
@@ -80,6 +75,11 @@
                 hreflang="en"
                 href="https://vibhoraggarwal.github.io/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://vibhoraggarwal.github.io/post/books/</loc>
+    <lastmod>2020-02-10T20:26:51+01:00</lastmod>
   </url>
   
   <url>
