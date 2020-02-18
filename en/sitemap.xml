@@ -43,6 +43,21 @@
   </url>
   
   <url>
+    <loc>https://vibhoraggarwal.github.io/</loc>
+    <lastmod>2020-02-10T20:26:51+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://vibhoraggarwal.github.io/de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://vibhoraggarwal.github.io/"
+                />
+  </url>
+  
+  <url>
     <loc>https://vibhoraggarwal.github.io/tags/</loc>
     <lastmod>2020-02-10T20:26:51+01:00</lastmod>
     <xhtml:link
@@ -60,21 +75,6 @@
   <url>
     <loc>https://vibhoraggarwal.github.io/authors/vibhor/</loc>
     <lastmod>2020-02-10T20:26:51+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://vibhoraggarwal.github.io/</loc>
-    <lastmod>2020-02-10T20:26:51+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://vibhoraggarwal.github.io/de/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://vibhoraggarwal.github.io/"
-                />
   </url>
   
   <url>
