@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<<<<<<< HEAD
 	
 	<sitemap>
 	   	<loc>https://vibhoraggarwal.github.io/de/sitemap.xml</loc>
@@ -13,4 +14,21 @@
 		
 	</sitemap>
 	
+=======
+  
+  <sitemap>
+    <loc>https://vibhoraggarwal.github.io/de/sitemap.xml</loc>
+    
+      <lastmod>2019-11-23T02:00:31+01:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://vibhoraggarwal.github.io/en/sitemap.xml</loc>
+    
+      <lastmod>2020-10-19T14:29:23+02:00</lastmod>
+    
+  </sitemap>
+  
+>>>>>>> 6a2a837e80c857cde6deea247777b6a874bc4fbc
 </sitemapindex>
