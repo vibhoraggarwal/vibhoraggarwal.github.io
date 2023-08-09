@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
   <url>
     <loc>https://vibhoraggarwal.github.io/de/authors/admin/</loc>
     <lastmod>2019-11-23T02:00:31+01:00</lastmod>
@@ -14,7 +15,9 @@
                 hreflang="de"
                 href="https://vibhoraggarwal.github.io/de/authors/admin/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://vibhoraggarwal.github.io/de/authors/</loc>
     <lastmod>2019-11-23T02:00:31+01:00</lastmod>
     <xhtml:link
@@ -27,7 +30,9 @@
                 hreflang="de"
                 href="https://vibhoraggarwal.github.io/de/authors/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://vibhoraggarwal.github.io/de/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -39,7 +44,9 @@
                 hreflang="de"
                 href="https://vibhoraggarwal.github.io/de/categories/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://vibhoraggarwal.github.io/de/post/</loc>
     <lastmod>2019-11-23T02:00:31+01:00</lastmod>
     <xhtml:link
@@ -52,7 +59,9 @@
                 hreflang="de"
                 href="https://vibhoraggarwal.github.io/de/post/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://vibhoraggarwal.github.io/de/publication_types/</loc>
     <xhtml:link
                 rel="alternate"
@@ -64,7 +73,9 @@
                 hreflang="de"
                 href="https://vibhoraggarwal.github.io/de/publication_types/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://vibhoraggarwal.github.io/de/publication/</loc>
     <lastmod>2019-11-23T02:00:31+01:00</lastmod>
     <xhtml:link
@@ -77,7 +88,9 @@
                 hreflang="de"
                 href="https://vibhoraggarwal.github.io/de/publication/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://vibhoraggarwal.github.io/de/talk/</loc>
     <lastmod>2019-11-23T02:00:31+01:00</lastmod>
     <xhtml:link
@@ -90,7 +103,9 @@
                 hreflang="de"
                 href="https://vibhoraggarwal.github.io/de/talk/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://vibhoraggarwal.github.io/de/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -102,7 +117,9 @@
                 hreflang="de"
                 href="https://vibhoraggarwal.github.io/de/tags/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://vibhoraggarwal.github.io/de/</loc>
     <lastmod>2019-11-23T02:00:31+01:00</lastmod>
     <xhtml:link
@@ -116,4 +133,5 @@
                 href="https://vibhoraggarwal.github.io/de/"
                 />
   </url>
+  
 </urlset>
