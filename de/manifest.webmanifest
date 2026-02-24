@@ -1,0 +1,20 @@
+{
+  "name": "Vibhor Startseite",
+  "short_name": "Vibhor Startseite",
+  "start_url": "https://vibhoraggarwal.github.io/de/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#fff",
+  "description": "Das ist die startseite für Aggarwal Vibhor",
+  "icons": [
+    {
+      "src": "https://vibhoraggarwal.github.io/img/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://vibhoraggarwal.github.io/img/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }]
+}

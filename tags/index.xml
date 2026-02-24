@@ -6,6 +6,8 @@
     <description>Recent content in Tags on Home | Vibhor Aggarwal</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
+    <managingEditor>vibhorag24@gmail.com (Home | Vibhor Aggarwal)</managingEditor>
+    <webMaster>vibhorag24@gmail.com (Home | Vibhor Aggarwal)</webMaster>
     <copyright>&amp;copy; {year} Vibhor Aggarwal</copyright>
     <lastBuildDate>Tue, 11 Feb 2020 00:00:00 +0000</lastBuildDate>
     
@@ -13,10 +15,10 @@
     
     
     <item>
-      <title>Control engineering</title>
+      <title>Control Engineering</title>
       <link>https://vibhoraggarwal.github.io/tags/control-engineering/</link>
       <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
-      
+      <author>vibhorag24@gmail.com (Home | Vibhor Aggarwal)</author>
       <guid>https://vibhoraggarwal.github.io/tags/control-engineering/</guid>
       <description></description>
     </item>
@@ -25,7 +27,7 @@
       <title>Deep Learning</title>
       <link>https://vibhoraggarwal.github.io/tags/deep-learning/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
+      <author>vibhorag24@gmail.com (Home | Vibhor Aggarwal)</author>
       <guid>https://vibhoraggarwal.github.io/tags/deep-learning/</guid>
       <description></description>
     </item>

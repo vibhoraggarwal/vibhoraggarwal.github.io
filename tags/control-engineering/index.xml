@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Control engineering on Home | Vibhor Aggarwal</title>
+    <title>Control Engineering on Home | Vibhor Aggarwal</title>
     <link>https://vibhoraggarwal.github.io/tags/control-engineering/</link>
-    <description>Recent content in Control engineering on Home | Vibhor Aggarwal</description>
+    <description>Recent content in Control Engineering on Home | Vibhor Aggarwal</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
+    <managingEditor>vibhorag24@gmail.com (Home | Vibhor Aggarwal)</managingEditor>
+    <webMaster>vibhorag24@gmail.com (Home | Vibhor Aggarwal)</webMaster>
     <copyright>&amp;copy; {year} Vibhor Aggarwal</copyright>
     <lastBuildDate>Tue, 11 Feb 2020 00:00:00 +0000</lastBuildDate>
     
@@ -16,7 +18,7 @@
       <title>Control Engineering 2019-20</title>
       <link>https://vibhoraggarwal.github.io/post/controlengineering/</link>
       <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
-      
+      <author>vibhorag24@gmail.com (Home | Vibhor Aggarwal)</author>
       <guid>https://vibhoraggarwal.github.io/post/controlengineering/</guid>
       <description>&lt;p&gt;Test exam 1 solution: &lt;a href=&#34;https://vibhoraggarwal.github.io/files/controlengineering/examsolution/soltestexam1.pdf&#34;&gt;Click here&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Test exam 2 solution: &lt;a href=&#34;https://vibhoraggarwal.github.io/files/controlengineering/examsolution/soltestexam2.pdf&#34;&gt;Click here&lt;/a&gt; [Updated: Phase margin plot in 2c, 3a, 4a]&lt;/p&gt;

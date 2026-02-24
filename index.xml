@@ -6,8 +6,10 @@
     <description>Recent content on Home | Vibhor Aggarwal</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
+    <managingEditor>vibhorag24@gmail.com (Home | Vibhor Aggarwal)</managingEditor>
+    <webMaster>vibhorag24@gmail.com (Home | Vibhor Aggarwal)</webMaster>
     <copyright>&amp;copy; {year} Vibhor Aggarwal</copyright>
-    <lastBuildDate>Wed, 09 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Nov 2025 00:00:00 +0100</lastBuildDate>
     
 	    <atom:link href="https://vibhoraggarwal.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -16,7 +18,7 @@
       <title>Legal Notice</title>
       <link>https://vibhoraggarwal.github.io/legal-notice/</link>
       <pubDate>Tue, 04 Nov 2025 00:00:00 +0100</pubDate>
-      
+      <author>vibhorag24@gmail.com (Home | Vibhor Aggarwal)</author>
       <guid>https://vibhoraggarwal.github.io/legal-notice/</guid>
       <description>&lt;h2 id=&#34;legal-information&#34;&gt;Legal Information&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Responsible for content:&lt;/strong&gt;&lt;/p&gt;
@@ -53,7 +55,7 @@ Germany&lt;/p&gt;
       <title>Privacy Policy</title>
       <link>https://vibhoraggarwal.github.io/privacy/</link>
       <pubDate>Tue, 04 Nov 2025 00:00:00 +0100</pubDate>
-      
+      <author>vibhorag24@gmail.com (Home | Vibhor Aggarwal)</author>
       <guid>https://vibhoraggarwal.github.io/privacy/</guid>
       <description>&lt;h2 id=&#34;privacy-policy&#34;&gt;Privacy Policy&lt;/h2&gt;
 &lt;h3 id=&#34;1-an-overview-of-data-protection&#34;&gt;1. An overview of data protection&lt;/h3&gt;
@@ -133,7 +135,7 @@ Germany&lt;/p&gt;
       <title>Slides</title>
       <link>https://vibhoraggarwal.github.io/slides/</link>
       <pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
-      
+      <author>vibhorag24@gmail.com (Home | Vibhor Aggarwal)</author>
       <guid>https://vibhoraggarwal.github.io/slides/</guid>
       <description></description>
     </item>
@@ -142,7 +144,7 @@ Germany&lt;/p&gt;
       <title>Templateprojects</title>
       <link>https://vibhoraggarwal.github.io/templateproject/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
+      <author>vibhorag24@gmail.com (Home | Vibhor Aggarwal)</author>
       <guid>https://vibhoraggarwal.github.io/templateproject/</guid>
       <description></description>
     </item>
@@ -151,7 +153,7 @@ Germany&lt;/p&gt;
       <title>Books</title>
       <link>https://vibhoraggarwal.github.io/books/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
+      <author>vibhorag24@gmail.com (Home | Vibhor Aggarwal)</author>
       <guid>https://vibhoraggarwal.github.io/books/</guid>
       <description></description>
     </item>
@@ -160,7 +162,7 @@ Germany&lt;/p&gt;
       <title>Posts</title>
       <link>https://vibhoraggarwal.github.io/post/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
+      <author>vibhorag24@gmail.com (Home | Vibhor Aggarwal)</author>
       <guid>https://vibhoraggarwal.github.io/post/</guid>
       <description></description>
     </item>
@@ -169,7 +171,7 @@ Germany&lt;/p&gt;
       <title>Publications</title>
       <link>https://vibhoraggarwal.github.io/publication/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
+      <author>vibhorag24@gmail.com (Home | Vibhor Aggarwal)</author>
       <guid>https://vibhoraggarwal.github.io/publication/</guid>
       <description></description>
     </item>
@@ -178,7 +180,7 @@ Germany&lt;/p&gt;
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://vibhoraggarwal.github.io/talk/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
+      <author>vibhorag24@gmail.com (Home | Vibhor Aggarwal)</author>
       <guid>https://vibhoraggarwal.github.io/talk/</guid>
       <description></description>
     </item>

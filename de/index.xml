@@ -6,7 +6,10 @@
     <description>Recent content on Vibhor Startseite</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>de</language>
+    <managingEditor>vibhorag24@gmail.com (Vibhor Startseite)</managingEditor>
+    <webMaster>vibhorag24@gmail.com (Vibhor Startseite)</webMaster>
     <copyright>&amp;copy; {year} Vibhor Aggarwal</copyright>
+    <lastBuildDate>Tue, 04 Nov 2025 00:00:00 +0100</lastBuildDate>
     
 	    <atom:link href="https://vibhoraggarwal.github.io/de/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +18,7 @@
       <title>Datenschutz</title>
       <link>https://vibhoraggarwal.github.io/de/datenschutz/</link>
       <pubDate>Tue, 04 Nov 2025 00:00:00 +0100</pubDate>
-      
+      <author>vibhorag24@gmail.com (Vibhor Startseite)</author>
       <guid>https://vibhoraggarwal.github.io/de/datenschutz/</guid>
       <description>&lt;h2 id=&#34;datenschutzerklärung&#34;&gt;Datenschutzerklärung&lt;/h2&gt;
 &lt;h3 id=&#34;1-datenschutz-auf-einen-blick&#34;&gt;1. Datenschutz auf einen Blick&lt;/h3&gt;
@@ -91,7 +94,7 @@ Deutschland&lt;/p&gt;
       <title>Impressum</title>
       <link>https://vibhoraggarwal.github.io/de/impressum/</link>
       <pubDate>Tue, 04 Nov 2025 00:00:00 +0100</pubDate>
-      
+      <author>vibhorag24@gmail.com (Vibhor Startseite)</author>
       <guid>https://vibhoraggarwal.github.io/de/impressum/</guid>
       <description>&lt;h2 id=&#34;angaben-gemäß--5-tmg&#34;&gt;Angaben gemäß § 5 TMG&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Verantwortlich für den Inhalt:&lt;/strong&gt;&lt;/p&gt;
@@ -126,7 +129,7 @@ Deutschland&lt;/p&gt;
       <title>Posts</title>
       <link>https://vibhoraggarwal.github.io/de/post/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
+      <author>vibhorag24@gmail.com (Vibhor Startseite)</author>
       <guid>https://vibhoraggarwal.github.io/de/post/</guid>
       <description></description>
     </item>
@@ -135,7 +138,7 @@ Deutschland&lt;/p&gt;
       <title>Publications</title>
       <link>https://vibhoraggarwal.github.io/de/publication/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
+      <author>vibhorag24@gmail.com (Vibhor Startseite)</author>
       <guid>https://vibhoraggarwal.github.io/de/publication/</guid>
       <description></description>
     </item>
@@ -144,7 +147,7 @@ Deutschland&lt;/p&gt;
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://vibhoraggarwal.github.io/de/talk/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
+      <author>vibhorag24@gmail.com (Vibhor Startseite)</author>
       <guid>https://vibhoraggarwal.github.io/de/talk/</guid>
       <description></description>
     </item>
