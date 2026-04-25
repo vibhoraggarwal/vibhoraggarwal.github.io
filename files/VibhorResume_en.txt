@@ -1,0 +1,142 @@
+Summary
+Senior Software Engineer: Robotics & ADAS, Middleware and Applications
+
+Education
+RWTH Aachen, Germany
+M.Sc, Automotive Engineering
+
+2021
+
+Indian Institute of Technology Kanpur (IIT), India
+B.Tech, Major: Mechanical Engineering
+Minor: Applied Mathematics
+
+Vibhor Aggarwal
+Software developer Automated driving
+
+2017
+
+Achievement and Awards
+
+i
+
+24 February, 1996 (29 # Years)
+
+B
+T
+m
+
+Stuttgart, Germany
+
+Best Under-Graduate project in Mechanical Engineering: IIT Kanpur
+2017
+Ranjan Kumar Memorial Award for best socially relevant project: IIT Kanpur 2017
+Ranked 3rd in state and 914th nationally among 1.4 million students in JEE 2013
+Gold Medal in National Mathematics Olympiad: AISMTA
+2013
+
+(+49)17659896222
+
+Experience
+
+@
+
+vibhorag24@gmail.com
+
+https://vibhorag.eu/
+
+Skills*
+
+C++, Python, CMake
+5
+Matlab, Simulink
+5
+CAD (Solidworks, Autodesk Inventor)
+5
+conan, git, QNX, Linux
+5
+Middleware (ROS, YARP, EDMS)
+5
+FEA (Ansys, Abaqus)
+3
+Gazebo, Carla, Protobuf, OSI, FMI
+3
+
+Languages*
+
+ETAS GmbH, Stuttgart
+½ Germany
+Software engineer
+Oct’22-Present#
+• Developed Diagnostics for ETAS-VRTE, an AUTOSAR Adaptive based µP platform, including DoIP communication and SOVD
+• Developed and delivered middleware (MW) and SDK for high-performance,
+safety-critical ADAS/AD applications on QNX-based targets
+• Collaborated w/ customers in Asia and EU to integrate MW w/ their tech stacks
+Simulation engineer for automated driving
+May’21-Oct’22
+• Model based simulation for public funded project for AD, SET Level
+ADAS simulation engineer intern/master thesis
+Jun’20-May’21
+• New Modelica/ASAM standards in V&V setups for automotive applications
+Institute of Automatic Control, RWTH Aachen
+Student research assistant
+
+½ Germany
+May’19-Mar’20
+
+• Sensor fusion, DAQ and time synchronisation among IMU and GNSS sensors
+Italian Institute of Technology, Genova
+Research Fellow for humanoid robotics
+
+½ Italy
+Nov’17-Aug’18
+
+• Implemented low level torque control framework for Humanoid robot, iCub
+Hero Motocorp Ltd, Haridwar
+Graduate Engineer Trainee
+
+½ India
+Jul’17-Oct’17
+
+• Managed TPM for machine quality, process inspection and resource planning
+
+English, Hindi
+
+6
+German
+
+Grey Orange Robotics Pvt. Ltd, Gurugram
+Mechanical design engineer intern
+
+5
+Italian, French, Spanish
+2
+
+Projects
+
+*Scale 1:Beginner to 6:Proficient
+
+Robotic Exoskeleton Arm, IIT Kanpur
+
+Projects’ Photos & Videos
+
+½ India
+May’16-Jul’16
+
+• Designed suspension system of a material handling Automated Guided Vehicle
+
+Aug’16-Apr’17
+
+• Provided improved mobility to people in old age and Cerebral Palsy patients
+Off-road Vehicles, IIT Kanpur
+
+Dec’13-Jan’16
+
+• Created/optimised mathematical models for multi link suspension systems
+
+Additional Information
+• Led the Motorsports team at IIT Kanpur, with more than 25 members.
+• Interests: Kung fu, Tango, Running, Cycling, Abstract expr., Philosophy
+# Last updated: February 12, 2026
+
+
