@@ -1,35 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Vibhor Aggarwal on Home | Vibhor Aggarwal</title>
-    <link>https://vibhoraggarwal.github.io/authors/vibhor-aggarwal/</link>
-    <description>Recent content in Vibhor Aggarwal on Home | Vibhor Aggarwal</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <managingEditor>vibhorag24@gmail.com (Home | Vibhor Aggarwal)</managingEditor>
-    <webMaster>vibhorag24@gmail.com (Home | Vibhor Aggarwal)</webMaster>
-    <copyright>&amp;copy; {year} Vibhor Aggarwal</copyright>
-    <lastBuildDate>Wed, 09 Aug 2023 00:00:00 +0000</lastBuildDate>
-    
-	    <atom:link href="https://vibhoraggarwal.github.io/authors/vibhor-aggarwal/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Work with Vibhor</title>
-      <link>https://vibhoraggarwal.github.io/slides/workwithvibhor/</link>
-      <pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
-      <author>vibhorag24@gmail.com (Home | Vibhor Aggarwal)</author>
-      <guid>https://vibhoraggarwal.github.io/slides/workwithvibhor/</guid>
-      <description>&lt;h1 id=&#34;hi-i-am-vibhor&#34;&gt;Hi, I am Vibhor&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&#34;https://vibhoraggarwal.github.io/&#34;&gt;Home page&lt;/a&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Vibhor Aggarwal on Home | Vibhor Aggarwal</title><link>https://vibhoraggarwal.github.io/authors/vibhor-aggarwal/</link><description>Recent content in Vibhor Aggarwal on Home | Vibhor Aggarwal</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><managingEditor>vibhorag24@gmail.com (Home | Vibhor Aggarwal)</managingEditor><webMaster>vibhorag24@gmail.com (Home | Vibhor Aggarwal)</webMaster><copyright>&amp;copy; {year} Vibhor Aggarwal</copyright><lastBuildDate>Wed, 09 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://vibhoraggarwal.github.io/authors/vibhor-aggarwal/index.xml" rel="self" type="application/rss+xml"/><item><title>Work with Vibhor</title><link>https://vibhoraggarwal.github.io/slides/workwithvibhor/</link><pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate><author>vibhorag24@gmail.com (Home | Vibhor Aggarwal)</author><guid>https://vibhoraggarwal.github.io/slides/workwithvibhor/</guid><description>&lt;h1 id="hi-i-am-vibhor"&gt;Hi, I am Vibhor&lt;/h1&gt;
+&lt;p&gt;&lt;a href="https://vibhoraggarwal.github.io/"&gt;Home page&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;
+&lt;h2 id="education"&gt;Education&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;IIT Kanpur 2017&lt;/li&gt;
 &lt;li&gt;RWTH Aachen 2021&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;what-i-value&#34;&gt;What I value?&lt;/h2&gt;
+&lt;h2 id="what-i-value"&gt;What I value?&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
@@ -39,39 +17,39 @@
 &lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/hakimel/reveal.js#pdf-export"&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+&lt;h2 id="code-highlighting"&gt;Code Highlighting&lt;/h2&gt;
 &lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;Code block:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
+&lt;pre&gt;&lt;code class="language-python"&gt;porridge = &amp;quot;blueberry&amp;quot;
 if porridge == &amp;quot;blueberry&amp;quot;:
-    print(&amp;quot;Eating...&amp;quot;)
+print(&amp;quot;Eating...&amp;quot;)
 &lt;/code&gt;&lt;/pre&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;h2 id="math"&gt;Math&lt;/h2&gt;
 &lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
 &lt;p&gt;Block math:&lt;/p&gt;
 &lt;p&gt;$$
 f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
 $$&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+&lt;h2 id="fragments"&gt;Fragments&lt;/h2&gt;
 &lt;p&gt;Make content appear incrementally&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
 {{% fragment %}} **Two** {{% /fragment %}}
 {{% fragment %}} Three {{% /fragment %}}
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
-&lt;span class=&#34;fragment &#34; &gt;
-   One 
+&lt;span class="fragment " &gt;
+One
 &lt;/span&gt;
-&lt;span class=&#34;fragment &#34; &gt;
-   **Two** 
+&lt;span class="fragment " &gt;
+**Two**
 &lt;/span&gt;
-&lt;span class=&#34;fragment &#34; &gt;
-   Three 
+&lt;span class="fragment " &gt;
+Three
 &lt;/span&gt;
 &lt;hr&gt;
 &lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
@@ -80,31 +58,30 @@ $$&lt;/p&gt;
 &lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+&lt;h2 id="speaker-notes"&gt;Speaker Notes&lt;/h2&gt;
 &lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
+&lt;pre&gt;&lt;code class="language-markdown"&gt;{{% speaker_note %}}
 - Only the speaker can read these notes
 - Press `S` key to view
 {{% /speaker_note %}}
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
-&lt;aside class=&#34;notes&#34;&gt;
-  &lt;ul&gt;
+&lt;aside class="notes"&gt;
+&lt;ul&gt;
 &lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
 &lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;/aside&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;h2 id="themes"&gt;Themes&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
 &lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
 &lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
 &lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
 &lt;li&gt;sky: Blue background, thin dark text, blue links
-&lt;a data-flickr-embed=&#34;true&#34;  href=&#34;https://www.flickr.com/photos/160040246@N06/albums/72157692416450831&#34; title=&#34;Robotic Exoskeleton Arm&#34;&gt;&lt;img src=&#34;https://live.staticflickr.com/4656/40642890921_d8a656fe7e.jpg&#34; width=&#34;500&#34; height=&#34;281&#34; alt=&#34;Robotic Exoskeleton Arm&#34;&gt;&lt;/a&gt;&lt;script async src=&#34;//embedr.flickr.com/assets/client-code.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
-&lt;video data-autoplay src=&#34;http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4&#34;&gt;&lt;/video&gt;&lt;/li&gt;
+&lt;a data-flickr-embed="true" href="https://www.flickr.com/photos/160040246@N06/albums/72157692416450831" title="Robotic Exoskeleton Arm"&gt;&lt;img src="https://live.staticflickr.com/4656/40642890921_d8a656fe7e.jpg" width="500" height="281" alt="Robotic Exoskeleton Arm"&gt;&lt;/a&gt;&lt;script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"&gt;&lt;/script&gt;
+&lt;video data-autoplay src="http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4"&gt;&lt;/video&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;ul&gt;
@@ -114,35 +91,26 @@ $$&lt;/p&gt;
 &lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-
 &lt;section data-noprocess data-shortcode-slide
-  
-      
-      data-background-image=&#34;/img/boards.jpg&#34;
-  &gt;
-
-&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+data-background-image="/img/boards.jpg"
+&gt;
+&lt;h2 id="custom-slide"&gt;Custom Slide&lt;/h2&gt;
 &lt;p&gt;Customize the slide style and background&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/img/boards.jpg&amp;quot; &amp;gt;}}
+&lt;pre&gt;&lt;code class="language-markdown"&gt;{{&amp;lt; slide background-image=&amp;quot;/img/boards.jpg&amp;quot; &amp;gt;}}
 {{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
 {{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
 &lt;/code&gt;&lt;/pre&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+&lt;h2 id="custom-css-example"&gt;Custom CSS Example&lt;/h2&gt;
 &lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
 &lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
+&lt;pre&gt;&lt;code class="language-css"&gt;.reveal section h1,
 .reveal section h2,
 .reveal section h3 {
-  color: navy;
+color: navy;
 }
 &lt;/code&gt;&lt;/pre&gt;
 &lt;hr&gt;
-&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&#34;https://discourse.gohugo.io&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+&lt;h1 id="questions"&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;&lt;a href="https://discourse.gohugo.io"&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://sourcethemes.com/academic/docs/"&gt;Documentation&lt;/a&gt;&lt;/p&gt;</description></item></channel></rss>

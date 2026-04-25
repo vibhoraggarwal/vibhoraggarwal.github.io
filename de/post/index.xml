@@ -1,17 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Posts on Vibhor Startseite</title>
-    <link>https://vibhoraggarwal.github.io/de/post/</link>
-    <description>Recent content in Posts on Vibhor Startseite</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>de</language>
-    <managingEditor>vibhorag24@gmail.com (Vibhor Startseite)</managingEditor>
-    <webMaster>vibhorag24@gmail.com (Vibhor Startseite)</webMaster>
-    <copyright>&amp;copy; {year} Vibhor Aggarwal</copyright>
-    
-	    <atom:link href="https://vibhoraggarwal.github.io/de/post/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Vibhor Startseite</title><link>https://vibhoraggarwal.github.io/de/post/</link><description>Recent content in Posts on Vibhor Startseite</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>de</language><managingEditor>vibhorag24@gmail.com (Vibhor Startseite)</managingEditor><webMaster>vibhorag24@gmail.com (Vibhor Startseite)</webMaster><copyright>&amp;copy; {year} Vibhor Aggarwal</copyright><atom:link href="https://vibhoraggarwal.github.io/de/post/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
